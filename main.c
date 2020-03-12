@@ -38,3 +38,4 @@ int main(int argc, char *argv[])
 // https://khayyam.developpez.com/articles/cpp/fmodex/
 // https://www.fmod.com/resources/documentation-api?version=1.10&page=/content/generated/common/lowlevel_introduction.html#initialization
 // https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c/19432-jouer-du-son-avec-fmod
+// https://fmod.com/resources/documentation-api?version=2.0&page=core-api-common.html#fmod_3d
