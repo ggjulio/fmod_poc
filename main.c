@@ -34,3 +34,7 @@ int main(int argc, char *argv[])
 
     return EXIT_SUCCESS;
 }
+
+// https://khayyam.developpez.com/articles/cpp/fmodex/
+// https://www.fmod.com/resources/documentation-api?version=1.10&page=/content/generated/common/lowlevel_introduction.html#initialization
+// https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c/19432-jouer-du-son-avec-fmod
