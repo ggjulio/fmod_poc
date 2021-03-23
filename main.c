@@ -6,7 +6,8 @@
 #define NB_CHANNELS 3
 
 
-// gcc main.c -L. -lfmod && install_name_tool -change "@rpath/libfmod.dylib" "libfmod.dylib"  a.out
+// export LD_LIBRARY_PATH=~/Documents/fmod_poc/libfmod_Linux/lib/x86_64/:$LD_LIBRARY_PATH
+// gcc main.c -L libfmod_Linux/lib/x86_64 -lfmod  -o  a.out
 int main(int argc, char *argv[])
 {
     FMOD_SYSTEM *system;
